@@ -1,0 +1,17 @@
+#tasks:hover {
+    transform: scale(1.01);
+}
+.start{
+    z-index: -1;
+}
+time-picker {
+    position:absolute;
+    z-index : 99999999;
+  }
+
+
+  /* ::ng-deep.ngx-material-timepicker-toggle{
+
+        margin-left: 10rem !important;
+        margin-top: -2.5rem !important;
+      } */
